@@ -1,5 +1,3 @@
-require 'byebug'
-
 class Player
   attr_accessor :name, :player_class, :life_points
   MAXIMUM_SHIELD_POINTS = 100
